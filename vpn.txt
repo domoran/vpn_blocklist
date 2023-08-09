@@ -6,3 +6,4 @@ sitecheck2.opera.com
 opera-mini.net
 exchange.opera.com
 features.opera-api.com
+hidemyass.com
